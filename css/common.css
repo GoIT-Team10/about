@@ -1,0 +1,74 @@
+/** COMMON **/
+
+.wrapper {
+    width: 1000px;
+    margin: 15px auto;
+    font-family: Verdana, serif;
+    color: #036;
+}
+
+ul {
+    margin: 0;
+    padding: 0px 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/** HEADER **/
+
+header {
+    background: url("images/header.png") no-repeat;
+    height: 190px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+.site-name {
+    font-size: 90px;
+}
+
+/** MENU **/
+
+.menu {
+    text-align: center;
+    background: #036;
+    border-bottom: 5px solid #0cf;
+    padding: 10px;
+}
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+}
+
+.menu li a{
+    padding: 0 20px;
+    color: white;
+}
+
+/** INFOBLOCK **/
+
+.info {
+    margin-top: 20px;
+}
+
+.info label {
+    font-size: 20px;
+    background: #036;
+    color: white;
+    padding: 10px;
+}
+
+.info div {
+    border-top: 1px solid #0cf;
+    padding: 20px;
+    margin-bottom: 20px;
+    background: #eff;
+}

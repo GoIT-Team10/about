@@ -1,0 +1,40 @@
+.command-about {
+    border-top: 1px solid #0cf;
+    padding: 20px;
+    margin: 20px 0;
+    background: #eff;
+}
+
+.photo-small {
+    display: block;
+    height: 100px;
+    width: 100px;
+    float: left;
+    border: 1px solid #05a;
+    padding: 2px;
+    background: white;
+    margin: 10px;
+
+}
+
+a.member-link {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    width: 300px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.name {
+    display: block;
+    background: #05a;
+    color: white;
+    padding: 5px;
+    font-size: 20px
+}
+
+.command-project a {
+    font-weight: bold;
+    color: #036;
+}

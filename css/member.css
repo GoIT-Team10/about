@@ -1,0 +1,50 @@
+.photo {
+    display: inline-block;
+}
+
+img {
+    border: 1px solid #036;
+    padding: 5px;
+    margin: 10px 10px 0;
+    width: 200px;
+}
+
+.short-info {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 760px;
+}
+
+.name {
+    text-align: center;
+    font-size: 30px;
+    background: #036;
+    color: white;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.about {
+    border-top: 1px solid #0cf;
+    padding-top: 10px;
+}
+
+.town-wrapper {
+    font-size: 20px;
+    margin-bottom: 10px;
+    height: 25px;
+    background: url("images/arrows.png") no-repeat 460px 0px;
+}
+
+.town-old {
+    float: left;
+}
+
+.town-new {
+    float: right;
+}
+
+
+
+
+
