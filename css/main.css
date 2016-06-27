@@ -26,6 +26,18 @@ a.member-link {
     text-decoration: none;
 }
 
+/*a.member-link:last-child {
+    display: block;
+    margin: 10px auto;
+    width: 300px;
+}
+
+a.member-link:last-child:after {
+    content: "";
+    display: block;
+    clear: both;
+}*/
+
 .name {
     display: block;
     background: #05a;

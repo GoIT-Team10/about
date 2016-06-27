@@ -1,5 +1,10 @@
 /** COMMON **/
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .wrapper {
     width: 1000px;
     margin: 15px auto;
