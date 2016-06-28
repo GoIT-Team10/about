@@ -1,9 +1,9 @@
-.command-about {
+/*.command-about {
     border-top: 1px solid #0cf;
     padding: 20px;
     margin: 20px 0;
     background: #eff;
-}
+}*/
 
 .photo-small {
     display: block;
@@ -15,6 +15,11 @@
     background: white;
     margin: 10px;
 
+}
+
+.members {
+    width: 972px;
+    margin: 10px auto 0;
 }
 
 a.member-link {
@@ -44,6 +49,13 @@ a.member-link:last-child:after {
     color: white;
     padding: 5px;
     font-size: 20px
+}
+
+.info ul {
+    border-top: 1px solid #0cf;
+    padding: 20px 0 20px 40px;
+    margin-bottom: 20px;
+    background: #eff;
 }
 
 .command-project a {
